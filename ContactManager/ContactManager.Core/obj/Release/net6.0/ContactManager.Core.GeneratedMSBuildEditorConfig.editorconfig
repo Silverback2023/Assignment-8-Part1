@@ -7,9 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ContactManager
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\000462471\Documents\GitHub\Assignment-8-Part1\ContactManager\ContactManager\
-=======
-build_property.ProjectDir = C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\
->>>>>>> 54b30f2e3a2c0bf7781704334e29308ef61ca00c
+build_property.RootNamespace = ContactManager.Core
+build_property.ProjectDir = C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager.Core\
