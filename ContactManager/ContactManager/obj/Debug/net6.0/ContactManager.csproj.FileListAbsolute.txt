@@ -13,3 +13,18 @@ C:\Users\Leoval Cabato\ContactManager\ContactManager\obj\Debug\net6.0\refint\Con
 C:\Users\Leoval Cabato\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
 C:\Users\Leoval Cabato\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
 C:\Users\Leoval Cabato\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+C:\Users\000462471\Source\Repos\Silverback2023\Assignment-8-Part1\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
